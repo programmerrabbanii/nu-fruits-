@@ -111,3 +111,9 @@ main{
 }
 /* free jon section end */
 /* footer section start */
+.foter{
+    text-align: center;
+    padding: 40px;
+    font-size: 22px;
+
+}
