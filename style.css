@@ -91,3 +91,23 @@ main{
 }
 /* calories section end */
 /* reveiw section  start here */
+.reveiw{
+    padding: 30px;
+}
+.inner-btn{
+    background-color: #130F49;
+    color: white;
+}
+.join-free{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #D9F4FF;
+    border-radius: 30px;
+    padding: 30px;
+}
+.join-left h2{
+    font-size: 88px;
+}
+/* free jon section end */
+/* footer section start */
