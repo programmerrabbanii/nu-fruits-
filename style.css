@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+main{
+    width: 90%;
+    margin: 0% auto;
+    
+}
+.navBar{ 
+    display: flex;
+    gap: 20px;
+    text-transform: capitalize;
+    align-items: center;
+    padding: 20px;
+
+}
+.navBar h3 ,.navEnd{
+    font-size: 30px;
+}
+/* navBar sectionn end here */
+/* bannar secton start here */
+.bannar-rights{
+    
+   
+}
+.bannar-left{
+   color: #0B0736;
+}
+.bannar-left h2{
+    font-size: 110px;
+}
+.bannar{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px 0px 50px;
+    
+}
+.bannar-rights img{
+    width: 100%;
+}
+.bannar-rights{
+   margin-top: -85px;
+   
+}
+
+.bannar-inner {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    font-size: 26px;
+}
+.bannar-left button{
+    background-color: #0B0736;
+    padding: 16px 40px;
+    border: none;
+    color: white;
+    border-radius: 18px;
+    font-size: 20px;
+}
+
