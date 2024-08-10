@@ -21,10 +21,10 @@ main{
 }
 /* navBar sectionn end here */
 /* bannar secton start here */
-.bannar-rights{
+
     
    
-}
+
 .bannar-left{
    color: #0B0736;
 }
@@ -59,4 +59,35 @@ main{
     border-radius: 18px;
     font-size: 20px;
 }
+/* bannar sectin end here */
+/* calories section start here */
+.calories{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+}
+.calories-btn{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-transform: capitalize;
+    background-color:#CCE8FD;
+    width: 160px;
+    padding: 12px;
+    margin-top: 20px;
+    border-radius: 10px;
 
+}
+.fa-brands{
+    font-size: 30px;
+}
+.calorie-left h2{
+    font-size:88px ;
+}
+.calorie-left p{
+    font-size: 25px;
+}
+/* calories section end */
+/* reveiw section  start here */
